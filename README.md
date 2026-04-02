@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Anmol 👋
+## Hi, I'm Anmol 👋
 
 Software Engineer focused on problem-solving and building scalable applications.
 
@@ -15,20 +13,16 @@ React.js, Next.js, Node.js, Express.js
 MongoDB, PostgreSQL, Tailwind CSS  
 
 ## Projects
-- **Cyberflow V1** – Workflow engine with real-time analytics (<100ms latency)  
-- **Product-Brainstorm** – Real-time collaboration app (20+ users)  
+- **Cyberflow V1** – Workflow engine with real-time analytics  
+- **Product-Brainstorm** – Real-time collaboration app  
 - **Bloggers Den** – MERN blog platform with authentication  
 
 ## Experience
 - **SDE Intern, Console.Success**  
-  Improved efficiency by 15%, integrated APIs, and built automation workflows  
-
-## Achievements
-- JEE Main 98.69 percentile (AIR 15K)  
-- Code 360 Top 10 (400+ days)  
+  Worked on backend development, API integration, and workflow automation  
 
 ## Contact
 - anmolvirmani13@gmail.com  
-- LinkedIn: [Add link]
+- LinkedIn: https://www.linkedin.com/in/anmol-virmani-419384286/
 
 ---
