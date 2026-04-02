@@ -4,7 +4,7 @@ Software Engineer focused on problem-solving and building scalable applications.
 
 ## About Me
 - B.Tech IT @ NSUT, Delhi  
-- Strong in DSA and core CS fundamentals  
+- Focused on building efficient backend systems and scalable architectures  
 - Experience with full-stack and real-time systems  
 
 ## Tech Stack
