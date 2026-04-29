@@ -1,7 +1,9 @@
 # Anmol Virmani
 
-I build things — workflow engines, real-time collaboration tools, ML ranking systems.  
-Third year IT student at NSUT Delhi who got tired of tutorial projects and started shipping real ones.
+Third year IT student at NSUT Delhi. I work across the stack —
+backend systems, real-time apps, and ML pipelines.
+Built real products, interned at a software company, and always working on something new.
+Open to summer opportunities in software engineering and data science.
 
 ---
 
