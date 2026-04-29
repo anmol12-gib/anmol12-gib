@@ -33,18 +33,6 @@ IT @ NSUT Delhi · Full-Stack & Backend · ML/NLP
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol12-gib&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol12-gib&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anmol12-gib&theme=github-dark-blue&hide_border=true" height="160"/>
-</p>
-
----
 
 ## Projects
 
