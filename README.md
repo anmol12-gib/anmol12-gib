@@ -47,11 +47,15 @@ Open to summer opportunities in software engineering and data science.
 
 ## Projects
 
+**[Cyberflow V1](https://github.com/anmol12-gib/Cyberflow-V1)**  
+Node-based workflow automation platform — design, execute, and analyze workflows visually. The interesting problem was building an async-aware execution graph that handles node dependencies without blocking the UI.
+
 **[Review Ranking & Summarization](https://github.com/anmol12-gib/Review-Ranking-Summarization)**  
 Applied Ant Colony Optimization (ACO) to rank product reviews by importance using NLP-extracted features — sentiment (VADER), helpfulness ratio, freshness, and review length. Evaluated using Pearson Correlation, Precision@K, and NDCG. The interesting problem: framing review ranking as an optimization problem and letting ACO learn the feature weights rather than hardcoding them.
 
-**[Cyberflow V1](https://github.com/anmol12-gib/Cyberflow-V1)**  
-Node-based workflow automation platform — design, execute, and analyze workflows visually. The interesting problem was building an async-aware execution graph that handles node dependencies without blocking the UI.
+**[Congestion Control Framework](https://github.com/anmol12-gib/Congestion-Control-Framework)**  
+The ACCF replaces reactive congestion signaling with a proactive, intelligence-driven approach for 6G IoT backhaul networks. 
+
 
 **[Product-Brainstorm](https://github.com/anmol12-gib/Product-Brainstrom)**  
 Real-time collaborative whiteboard with live cursors, multi-user state sync, shapes, stickies, and freehand drawing. Built conflict-free sync using Socket.io + Zustand.
