@@ -34,16 +34,7 @@ Open to summer opportunities in software engineering and data science.
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat&logo=python&logoColor=white)
 
----
 
-## GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol12-gib&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
----
 
 ## Projects
 
