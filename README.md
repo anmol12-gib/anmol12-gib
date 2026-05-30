@@ -1,70 +1,85 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c8f064&height=120&section=header&text=&fontSize=0" />
+
 # Anmol Virmani
 
-Third year IT student at NSUT Delhi. I work across the stack —
-backend systems, real-time apps, and ML pipelines.
-Built real products, interned at a software company, and always working on something new.
-Open to summer opportunities in software engineering and data science.
+**Software Engineer · NSUT Delhi · Open to Summer 2026 Internships**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-virmani-419384286/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anmolvirmani_2/)
+[![Code360](https://img.shields.io/badge/Code360-Top_10_%7C_1L%2B_Users-FF6B35?style=flat-square)](https://www.naukri.com/code360/profile/10849224-d0a1-41e5-8090-a9771dcac3aa)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anmolvirmani13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anmol12-gib)
 
-## Currently
+</div>
 
-- Scaling **Cyberflow V2** — better node orchestration, cleaner execution graph
-- Exploring LLM integrations in product workflows
-- Sharpening DSA on LeetCode
+<br>
 
----
+> Third year IT @ **NSUT Delhi**. I build workflow engines, real-time collaboration systems, and NLP pipelines.
+> Currently open to **summer 2026 internship opportunities** in software engineering, backend, or applied ML.
 
-## Tech Stack
+<br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+## 🔨 What I've Built
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat&logo=python&logoColor=white)
+### ⚙️ [Cyberflow V1](https://github.com/anmol12-gib/Cyberflow-V1) &nbsp; [![Live](https://img.shields.io/badge/Live-c8f064?style=flat-square&logoColor=black)](https://cyberflow-v1.vercel.app/)
 
+Visual workflow automation engine. Built an **async-aware BFS execution graph** that resolves node dependencies without blocking the UI thread. DAG validation catches cycles in real-time.
 
+`TypeScript` `React` `Zustand` `Vite`
 
-## Projects
+</td>
+<td width="50%" valign="top">
 
-**[Cyberflow V1](https://github.com/anmol12-gib/Cyberflow-V1)**  
-Node-based workflow automation platform — design, execute, and analyze workflows visually. The interesting problem was building an async-aware execution graph that handles node dependencies without blocking the UI.
+### 🧠 [Review Ranking & Summarization](https://github.com/anmol12-gib/Review-Ranking-Summarization) &nbsp; ![ML](https://img.shields.io/badge/ML%2FNLP-64d4f0?style=flat-square&logoColor=black)
 
-**[Review Ranking & Summarization](https://github.com/anmol12-gib/Review-Ranking-Summarization)**  
-Applied Ant Colony Optimization (ACO) to rank product reviews by importance using NLP-extracted features — sentiment (VADER), helpfulness ratio, freshness, and review length. Evaluated using Pearson Correlation, Precision@K, and NDCG. The interesting problem: framing review ranking as an optimization problem and letting ACO learn the feature weights rather than hardcoding them.
+Applied **Ant Colony Optimization** to rank reviews using NLP signals — ACO learns feature weights instead of hardcoding them. Evaluated with Precision@K and NDCG.
 
-**[Congestion Control Framework](https://github.com/anmol12-gib/Congestion-Control-Framework)**  
-The ACCF replaces reactive congestion signaling with a proactive, intelligence-driven approach for 6G IoT backhaul networks. 
+`Python` `NLTK` `VADER` `ACO`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[Product-Brainstorm](https://github.com/anmol12-gib/Product-Brainstrom)**  
-Real-time collaborative whiteboard with live cursors, multi-user state sync, shapes, stickies, and freehand drawing. Built conflict-free sync using Socket.io + Zustand.
+### 📡 [Congestion Control Framework](https://github.com/anmol12-gib/Congestion-Control-Framework) &nbsp; ![Systems](https://img.shields.io/badge/Systems-f064b4?style=flat-square&logoColor=black)
 
-**[Bloggers Den](https://github.com/anmol12-gib/Blogger-s-den)**  
-Full-stack blogging platform — JWT auth, tech news feed, author profiles, post editor. MERN, deployed.
+Proactive, intelligence-driven congestion control for **6G IoT backhaul** — replaces reactive signaling with a predictive approach.
 
----
+`Networking` `6G` `IoT` `C++`
 
-## Experience
+</td>
+<td width="50%" valign="top">
 
-**SDE Intern — Console.Success**  
-Backend development, API integration, and workflow automation on a live product.
+### 🖊️ [Product Brainstorm](https://github.com/anmol12-gib/Product-Brainstrom) &nbsp; [![Live](https://img.shields.io/badge/Live-c8f064?style=flat-square&logoColor=black)](https://product-brainstrom-588t.vercel.app/)
 
----
+Real-time collaborative whiteboard — live cursors, **multi-user state sync**, shapes, stickies, freehand drawing. Conflict-free sync via Socket.io + Zustand.
 
-## Contact
+`TypeScript` `React` `Socket.io` `Node.js`
 
-[![Email](https://img.shields.io/badge/Email-anmolvirmani13@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anmolvirmani13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol_Virmani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-virmani-419384286/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-anmolvirmani__2-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/anmolvirmani_2/)
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 By the Numbers
+
+<div align="center">
+
+| 🏆 Top 10 on Code 360 | 📐 AIR 15,258 · JEE 2023 | 🥇 Rank 9 · Algo University |
+|:---:|:---:|:---:|
+| Among 1 lakh+ users · 400+ days | 98.69 percentile · 1M+ participants | DP Camp · 5000+ students |
+
+</div>
+
+<br>
+
+## 🛠 Stack
+
+```text
