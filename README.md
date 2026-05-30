@@ -83,3 +83,40 @@ Real-time collaborative whiteboard — live cursors, **multi-user state sync**, 
 ## 🛠 Stack
 
 ```text
+Languages   TypeScript  JavaScript  Python  C++  Java  SQL
+Frontend    React · Next.js · Tailwind CSS
+Backend     Node.js · Express · Socket.io · REST APIs
+Databases   MongoDB · PostgreSQL
+ML / NLP    NLTK · VADER · Scikit-learn
+Tools       Git · GitHub Actions · Vercel · Zustand
+```
+
+<br>
+
+## 💼 Experience
+
+**SDE Intern — Console.Success** &nbsp; `Dec 2025 – Jan 2026`
+
+- Built modular React + Node.js components, improving operational efficiency by **15%**
+- Integrated **5+ RESTful APIs**, reducing response latency and improving throughput by **20%**
+- Shipped **3 CI/CD pipelines** with GitHub Actions — cut manual release effort by **40%**
+
+<br>
+
+## ⚡ Currently
+
+- Scaling **Cyberflow V2** — better node orchestration, persistent execution state
+- Exploring **LLM tool-use** integrations in workflow pipelines
+- Sharpening DSA on LeetCode daily
+
+<br>
+
+<div align="center">
+
+*If something I've built looks interesting, or you're hiring for summer 2026 —*
+
+[![Let's talk](https://img.shields.io/badge/Let's_talk-anmolvirmani13@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolvirmani13@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c8f064&height=80&section=footer" />
+
+</div>
