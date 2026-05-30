@@ -7,7 +7,7 @@
 **Software Engineer · NSUT Delhi · Open to Summer 2026 Internships**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-virmani-419384286/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://anmol-virmani-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anmol-virmani-portfolio.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anmolvirmani_2/)
 [![Code360](https://img.shields.io/badge/Code360-Top_10_%7C_1L%2B_Users-FF6B35?style=flat-square)](https://www.naukri.com/code360/profile/10849224-d0a1-41e5-8090-a9771dcac3aa)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anmolvirmani13@gmail.com)
