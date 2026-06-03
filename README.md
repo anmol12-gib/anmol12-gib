@@ -4,7 +4,7 @@
 
 # Anmol Virmani
 
-**Software Engineer · NSUT Delhi · Open to Summer 2026 Internships**
+**Software Engineer · NSUT Delhi **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-virmani-419384286/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anmol-virmani-portfolio.vercel.app/)
@@ -113,7 +113,7 @@ Tools       Git · GitHub Actions · Vercel · Zustand
 
 <div align="center">
 
-*If something I've built looks interesting, or you're hiring for summer 2026 —*
+*If something I've built looks interesting, —*
 
 [![Let's talk](https://img.shields.io/badge/Let's_talk-anmolvirmani13@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolvirmani13@gmail.com)
 
