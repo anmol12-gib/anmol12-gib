@@ -15,7 +15,7 @@
 <br>
 
 > Third year IT @ **NSUT Delhi**. I build workflow engines, real-time collaboration systems, and NLP pipelines.
-> Currently open to **summer 2026 internship opportunities** in software engineering, backend, or applied ML.
+> Currently working in various domains of software engineering, backend, or applied ML.
 
 <br>
 
